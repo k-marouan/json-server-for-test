@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "learn reactJS",
+      "description": "learn reactJS from scratch",
+      "user_id": 3
+    },
+    {
+      "id": 2,
+      "title": "learn HTML",
+      "description": "learn HTML from scratch",
+      "user_id": 3
+    },
+    {
+      "id": 3,
+      "title": "learn Python",
+      "description": "learn Python from scratch",
+      "user_id": 3
+    },
+    {
+      "id": 5,
+      "title": "learn PHP",
+      "description": "learn PHP from scratch",
+      "user_id": 3
+    },
+    {
+      "id": 377,
+      "title": "C#",
+      "description": "learn C#"
+    },
+    {
+      "id": 479,
+      "title": "yup",
+      "description": "yup desc"
+    },
+    {
+      "id": 60,
+      "title": "formik wooow",
+      "description": "formik",
+      "user_id": 1
+    }
+  ]
+}
